@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Georgian Folk Tales</dc:title>
+      <dc:creator>Marjory Scott Wardrop (1869–1909)</dc:creator>
+      <dc:creator>Vladimir Aghniashvili (1860–1904)</dc:creator>
+      <dc:creator>Aleksandr Antonovič Cagareli (1844–1929)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2013-12-29</dc:publisher>
+      <dc:date>2013-12-29</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans for this book are available from the Internet Archive (copy 1).
+The tales where originally translated from Georgian and Russian sources. The original titles of the works listed on page ix are:
+
+1. ვლადიმერ აღნიაშვილი, ხალხური ზღაპრები.
+    2. А. И. Цагарили, Мингрельские этюды.
+    3. Грузинские народные сказки.
+</dc:rights>
+      <dc:subject>Tales -- Georgia (Republic)</dc:subject>
+      <dc:subject>Tales</dc:subject>
+      <dc:subject>Georgia (Republic)</dc:subject>
+      <dc:identifier>pg:44536</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
